@@ -1,10 +1,10 @@
-# Jiraiya AI Trader
+# Jiraiya AI BackTester
 
-Jiraiya AI Trader is a trading research project for building, testing, and presenting automated NSE-market trading workflows.
+Jiraiya AI BackTester is a trading research project for building, testing, and presenting automated NSE-market trading workflows.
 
 ## About
 
-Jiraiya AI Trader is a backtesting and strategy-research workspace for experimenting with NSE trading ideas before any real-world deployment. It combines a Streamlit Strategy Lab, historical market-data connectors, configurable strategy rules, and a static product presentation.
+Jiraiya AI BackTester is a backtesting and strategy-research workspace for experimenting with NSE trading ideas before any real-world deployment. It combines a Streamlit Strategy Lab, historical market-data connectors, configurable strategy rules, and a static product presentation.
 
 The project is designed to help users compare strategy behavior across different symbols, timeframes, and data sources. It is intentionally focused on research and backtesting, not live order execution.
 
@@ -48,7 +48,7 @@ It does **not** currently include a production live-order execution engine insid
 
 ### `index.html`
 
-A static presentation page for the Jiraiya AI Trader concept. It describes the larger product vision, including:
+A static presentation page for the Jiraiya AI BackTester concept. It describes the larger product vision, including:
 
 - Automated NSE F&O trading workflows
 - Dhan API integration concept
