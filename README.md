@@ -241,6 +241,14 @@ Planned improvements:
 8. Add risk-control simulation.
 9. Add broker execution only after paper-trading validation is complete.
 
+## License
+
+This project is released under the MIT License.
+
+That means the code can be used, copied, modified, and shared freely, as long as the license notice is included. The software is provided without warranty.
+
+See [LICENSE](LICENSE) for details.
+
 ## Disclaimer And Liability
 
 This project is for **education, research, historical-data analysis, backtesting, and product presentation only**.
