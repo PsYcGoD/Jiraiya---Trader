@@ -2,6 +2,12 @@
 
 Jiraiya AI Trader is a trading research project for building, testing, and presenting automated NSE-market trading workflows.
 
+## About
+
+Jiraiya AI Trader is a backtesting and strategy-research workspace for experimenting with NSE trading ideas before any real-world deployment. It combines a Streamlit Strategy Lab, historical market-data connectors, configurable strategy rules, and a static product presentation.
+
+The project is designed to help users compare strategy behavior across different symbols, timeframes, and data sources. It is intentionally focused on research and backtesting, not live order execution.
+
 The repository currently includes:
 
 - A static investor/product presentation in `index.html`
